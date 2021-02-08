@@ -7,6 +7,7 @@ import 'firebase/firestore';
 var firebaseConfig = {
     apiKey: "AIzaSyDpNTHf4COFPdrfPoiF7tb22180lyQ27c4",
     authDomain: "firegram-64b8a.firebaseapp.com",
+    databaseURL: "https://firegram-64b8a-default-rtdb.firebaseio.com",
     projectId: "firegram-64b8a",
     storageBucket: "firegram-64b8a.appspot.com",
     messagingSenderId: "655294158205",
