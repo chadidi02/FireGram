@@ -3,6 +3,7 @@ import Title from './components/Title';
 import UploadForm from './components/UploadForm';
 import ImageGrid from './components/ImagGrid';
 import Modal from './components/Modal';
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
 function App() {
   const [selectedImg, setSelectedImg] = useState(null);
